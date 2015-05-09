@@ -5,7 +5,8 @@ A simple application of capsense is to create touch based switch boards. The con
 
 We set a threshold value `100` in this case and set is as the case when we have changed the capacitance by touching the metal with our hands or some other object which can couple with it.
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=qxaaouVgP8c" target="_blank"><img src="http://img.youtube.com/vi/qxaaouVgP8c/0.jpg" alt="Capsense room switch" width="240" height="180" border="10" /></a>
+### Check this on **You<span style="color:white;background: rgb(196,26,30);padding: 2px 3px;margin:1px;border-radius: 3px">Tube</span>**
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=qxaaouVgP8c" target="_blank"><img src="http://img.youtube.com/vi/qxaaouVgP8c/0.jpg" alt="Capsense room switch" width="500"  border="10" /></a>
 
 ### Circuit Diagram
 ![circuit diagram](http://blog.minhazav.me/wp-content/uploads/2015/05/IMAG0011.jpg)
